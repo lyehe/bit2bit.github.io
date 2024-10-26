@@ -12,7 +12,12 @@ If you find bit2bit useful for your work please cite:
 }
 ```
 
-# Website License
-This template was forked from [nerfies](https://github.com/nerfies/nerfies.github.io). We thank the authors for sharing their template.
+# Website License and Acknowledgements
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+We gratefully acknowledge that this website template was forked from [nerfies](https://github.com/nerfies/nerfies.github.io). We extend our thanks to the original authors for sharing their work.
+
+This website is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+
+For more details about the license, please visit: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
